@@ -1,4 +1,3 @@
-# CODSOFT-Task2
 Personal Portfolio Page
 Welcome to my personal portfolio page repository! This project showcases my skills, projects, and experiences using HTML, CSS, and JavaScript.
 
